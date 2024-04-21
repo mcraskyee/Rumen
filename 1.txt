@@ -1,9 +1,11 @@
 git init
 git status
 git add 1.txt
+git add .
 git commit -m "add 1.txt"
 git log
-git add .
+git log --oneline
 git diff
 git reset HEAD filename
+git reset --hard 
 git checkout --filename
