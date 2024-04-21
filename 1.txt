@@ -6,6 +6,11 @@ git commit -m "add 1.txt"
 git log
 git log --oneline
 git diff
+
 git reset HEAD filename
 git reset --hard 
 git checkout --filename
+
+git branch
+git checkout -b branchName：创建新branch并切换
+git checkout branchName：切换到其他branch
