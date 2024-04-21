@@ -3,3 +3,4 @@ git status
 git add 1.txt
 git commit -m "add 1.txt"
 git log
+git add .
