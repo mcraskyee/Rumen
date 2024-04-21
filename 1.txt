@@ -5,3 +5,5 @@ git commit -m "add 1.txt"
 git log
 git add .
 git diff
+git reset HEAD filename
+git checkout --filename
